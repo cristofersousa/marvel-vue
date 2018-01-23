@@ -22,8 +22,10 @@ Ao clicar em um item da lista, apresente os detalhes da edição. O detalhe deve
 
 #### Extras/Plus:
 - Criação de testes integrados.
-- Automação com Grunt, Gulp, ou WebPack.
+- Automação com Grunt, Gulp ou WebPack.
 - Otimizações para aumentar a velocidade de renderização.
+- Deploy Digital Ocean ou Heroku
+- Docker ou Kubernetes
 
 Dados de acesso a api da Marvel
 Portal: https://developer.marvel.com/
